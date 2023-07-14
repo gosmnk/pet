@@ -100,7 +100,7 @@ body {
 
   height: 570px;
   border-radius: 30px;
-  background-image: url('../petsheltertest/images/hero_cat.jpg');
+  background-image: url('images/hero_cat.jpg');
   background-size: cover;
   box-shadow: 10px 13px 52px -19px rgba(8, 5, 8, 0.16);
 
@@ -178,17 +178,17 @@ body {
   transition: all ease-out 0.8s;
 }
 .food {
-  background-image: url(./petsheltertest/images/food.jpg);
+  background-image: url(images/food.jpg);
   background-size: cover;
 }
 
 .heal {
-  background-image: url(./petsheltertest/images/dogNew.jpg);
+  background-image: url(images/dogNew.jpg);
   background-size: cover;
 }
 
 .adopt {
-  background-image: url(./petsheltertest/images/adoptNew.jpg);
+  background-image: url(images/adoptNew.jpg);
   background-size: cover;
 }
 
